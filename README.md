@@ -1,8 +1,6 @@
-# terraform-ec2-instance
-
-## In this prject we will create an EC2 instance using Terraform
-
-- AMI id will be generated dynamically
+# Project Overview
+- Creating EC2 Instance in a custom VPC 
+- Generating AMI for EC2 instance dynamically
 - Custom Security Group
 - Custom VPC using Terraform VPC Module
 - Create EC2 Instance using Terraform ec2 module
